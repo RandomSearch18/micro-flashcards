@@ -21,7 +21,7 @@ Here's a comparison of features:
 
 ## Run the app
 
-TODO
+Head to **<https://micro-flashcards.netlify.app>** to try it out!
 
 ## Usage guide
 
@@ -70,3 +70,9 @@ Here's some of the fun features of this code, all done in the name of minimising
   - May or may not have made debugging a pain...
 - 🎉 A variable called `$`!
   - You can think of it like jQuery, but without the jQuery
+
+## Development instructions
+
+1. Install (development) dependencies: `yarn`
+2. Launch the Vite dev server: `yarn dev`
+3. Or, build the app: `yarn build`
